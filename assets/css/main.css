@@ -442,7 +442,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #1b1f22;
+			background: #003049;
 		}
 
 		select:focus::-ms-value {
@@ -533,7 +533,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff !important;
 			border-color: #ffffff !important;
-			color: #1b1f22;
+			color: #003049;
 			content: '\f00c';
 		}
 
@@ -1079,7 +1079,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #1b1f22 !important;
+			color: #003049 !important;
 			font-weight: 600;
 		}
 
